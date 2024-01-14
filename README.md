@@ -2,6 +2,7 @@
 <h3 align="center">Junior Web Developer with a strong foundation in modular development, honed through dedicated self-learning and a comprehensive programme at OpenClassrooms.</h3>
 
 - 🔭 I’m currently working on [my creative portfolio in Svelte](https://portfolio.williamlrss.com)
+- 📫 Reach out: **williamlerossignol@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
