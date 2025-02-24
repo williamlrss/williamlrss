@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William!</h1>
-<h3 align="center">MERN Web Developer with a strong foundation in modular development, honed through dedicated self-learning and a comprehensive programme at OpenClassrooms.</h3>
+<h3 align="center">Web Developer with a strong foundation in modular development, honed through dedicated self-learning and a comprehensive programme at OpenClassrooms.</h3>
 
 - 🔭 I'm currently developing a platform that I believe will provide peace of mind to candidates applying for online job offers.
 - 📫 Reach out: **williamlerossignol@outlook.com**
