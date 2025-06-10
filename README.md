@@ -4,6 +4,7 @@
 - 🔭 I'm currently developing a platform that I believe will provide peace of mind to candidates applying for online job offers.
 - 📫 Reach out: **williamlerossignol@outlook.com**
 - My website: **https://williamlrss.com**
+- My last freelance project : **https://grainsdescene.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
